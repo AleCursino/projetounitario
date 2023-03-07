@@ -12,6 +12,8 @@ print(sorveteria1.flavors_available())
 print(sorveteria1.add_flavor("Maracujá"))
 print(sorveteria1.flavors_available())
 
+print(sorveteria1.find_flavor("Amora"))
+
 #sorv2.flavors_available()
 
 """
